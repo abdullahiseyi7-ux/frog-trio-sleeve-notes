@@ -1,0 +1,20 @@
+{
+  "format": "makefun-run/1",
+  "prompt": {
+    "text": "Write album title and back cover blurb (max 400 chars) for a jazz trio of frogs. Natural tone. Then make main.py write it to /output/entry.txt.",
+    "origin": "user",
+    "via": null
+  },
+  "system_prompt": {"status": "uploaded", "why": null},
+  "instructions": {"status": "none", "why": null},
+  "mcp_servers": [],
+  "declared": {
+    "harness": "grok",
+    "harness_version": "4.7",
+    "provider": "xai",
+    "model": "grok-4",
+    "reasoning_effort": "high",
+    "notes": "Handed over from Grok chat session"
+  },
+  "context": []
+}
